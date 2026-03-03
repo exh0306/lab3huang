@@ -1,4 +1,4 @@
-package huang.database.lab3.database;
+package huang.lab3.database;
 
 import huang.database.lab3.lab3model.Customer;
 

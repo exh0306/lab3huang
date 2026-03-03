@@ -1,4 +1,4 @@
-package huang.database.lab3.database;
+package huang.lab3.database;
 
 import huang.database.lab3.lab3model.Customer;
 
@@ -14,7 +14,7 @@ public class MongoDatabase {
 
     private MongoCollection<Document> getCollection() {
         MongoClient client = MongoClients.create(URI);
-        MongoDatabase database = client.getDatabase("lab3db");
+        com.mongodb.client.MongoDatabase database = client.getDatabase("lab3db");
         return database.getCollection("Customer");
     }
 
