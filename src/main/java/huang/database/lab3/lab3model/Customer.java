@@ -1,3 +1,14 @@
+/**
+
+ * Project: Lab 3
+ * Purpose Details: Customers
+ * Course : IST 242
+ * Author: Emlety Huang
+ * Date Developed: 2/26/26
+ * Last Date Changed: 3/2/26
+ * Revision: 3/2/26
+ *
+ */
 package huang.database.lab3.lab3model;
 
 public class Customer {
