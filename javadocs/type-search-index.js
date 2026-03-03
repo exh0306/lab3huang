@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"huang.database.lab3.lab3model","l":"Customer"},{"p":"huang.database.lab3","l":"Main"},{"p":"huang.lab3.database","l":"MongoDatabase"},{"p":"huang.lab3.database","l":"MySQLDatabase"}];updateSearchResults();
